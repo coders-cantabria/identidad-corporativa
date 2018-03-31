@@ -1,3 +1,5 @@
+![Coders Cantabria Logotipo](https://github.com/coders-cantabria/identidad-corporativa/raw/master/misc/banda_oscura.png)
+
 # Identidad corporativa
 Imagen de marca de Corders Cantabria.
 
